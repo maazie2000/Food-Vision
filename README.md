@@ -13,7 +13,11 @@ Only 1 model will be created and improved throughout the notebook. This model us
 `Input Layer`  -> `EfficientNetB0` -> `Global Average Pooling Layer` - > `Dense Layer`
 
 ## Datasets
-The dataset used in this notebook is the `food101` dataset, that has 101 different classes of food. The dataset can be loaded using tensorflow datasets.
+The dataset used in this notebook is the `food101` dataset, that has 101 different classes of food. The dataset can be loaded using tensorflow datasets. 
 
+## Evaluation
+The model has been uploaded to tensorboard to visualize how good the model performed. The model didn't achieve target accuracy, but soon will 😤.
 
+## Course Acknowledgements
+Thanks you Daniel Bourke and Andrei Neagoie for this amazing course! I really loved it and look forward to doing the NLP section!
 
